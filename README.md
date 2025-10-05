@@ -8,7 +8,8 @@ Tasks Performed :
 1. Data collection – Data was collected through niloufer café official website  
 2. Data cleaning – This includes removal of duplicates , data validation 
 3. Data extraction – Using SQL formulas , subqueries , CTEs extracted actionable information i.e performed Exploratory Data Analysis
-4. Data Visualization  – Visualized data through dashboard
+4. Data Visualization  – Created dashboard to show major findings
+   [tableau dashboard _link](https://public.tableau.com/views/project_17591716286990/Dashboard1?:language=en-US&:sid=88E262118A124F9096F9A464D7AAEF20-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 TOOLS USED - EXCEL, SQL, TABLEAU
     
